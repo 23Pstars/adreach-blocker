@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+
+    "name": "XL Adreach Blocker",
+    "description": "Bypass the ads request process from Adreach XL server.",
+    "version": "1.0",
+
+    "permissions": [
+        "<all_urls>", "webRequest", "webRequestBlocking"
+    ],
+
+    "background": {
+        "scripts": ["script.js"]
+    }
+}
