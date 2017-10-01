@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
 
-    "name": "XL Adreach Blocker",
-    "description": "Bypass the ads request process from Adreach XL server.",
+    "name": "Adreach Blocker",
+    "description": "Block and bypass the ads request process from Adreach XL server.",
     "version": "1.0",
 
     "permissions": [
